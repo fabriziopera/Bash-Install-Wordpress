@@ -5,5 +5,5 @@ This script is useful if you want install rapidly wordpress from terminal of ser
 
 Just run “./install_wordpress.sh user group”
 
-For any problem contact you can contact me at:
+For any problem contact me at:
 fabrizio.pera@gmail.com
